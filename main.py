@@ -21,7 +21,7 @@ from langchain_core.documents import Document
 # 0. API 配置 (请替换为你的 Qwen 或其他大模型 API Key)
 # 阿里云 DashScope Qwen 示例：
 # ==========================================
-os.environ["OPENAI_API_KEY"] = "sk-eeogknifmkcjsfyoctrkhrukyhtiueyohsglklfklxsgmrfw"
+os.environ["OPENAI_API_KEY"] = "sk-xxxxxxxxxx"
 os.environ["OPENAI_API_BASE"] = "https://api.siliconflow.cn/v1"
 # 如果使用其他模型，按需修改 BASE URL 和 API KEY
 
